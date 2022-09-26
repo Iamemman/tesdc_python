@@ -2,7 +2,7 @@
 number1 = 6
 number2 = 3
 sum = number1 + number2 # addition
-print(f'The sum of {number1} ans {number2} is {sum}')
+print(f'The sum of {number1} and {number2} is {sum}')
 
 diff = number1 - number2 #subraction
 print(f'The difference of {number1} and {number2} is {diff}')
